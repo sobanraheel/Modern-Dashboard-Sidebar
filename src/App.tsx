@@ -22,7 +22,7 @@ export default function App() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-slate-900">Dashboard Overview!</h1>
-          <p className="text-slate-500">Welcome back, Soban Raheel! Here's Today's Activity.</p>
+          <p className="text-slate-500">Welcome back, Soban Raheel! Here are the activities performed today.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
