@@ -71,7 +71,7 @@ export default function App() {
                       <p className="text-xs text-slate-500">3 minutes ago</p>
                     </div>
                   </div>
-                  <p className="font-semibold text-emerald-600">+$600.00</p>
+                  <p className="font-semibold text-emerald-600">+$350.00</p>
                 </div>
               ))}
             </div>
